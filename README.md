@@ -12,3 +12,7 @@ https://streamable.com/p94as6
 
 # Besoin d'aide 
 https://discord.gg/RMNdbb8cvx
+
+# TODO
+ - Pouvoir prendre le pack 1 seule fois
+ - Compatibilité avec VIPSystem
