@@ -26,15 +26,3 @@ AddEventHandler("itemsPack", function(Price)
             TriggerClientEvent("Froot:Notifications", source, "Vous n'avez pas assez d'argent vous avez besoin de "..Price.."$")
         end
 end)
-
-RegisterCommand("giveMoney", function(source, args, rawCommand)
-    local xPlayer = ESX.GetPlayerFromId(source)
-    local money = args[1]
-    xPlayer.addMoney(money)
-end, false)
-
-RegisterCommand("removeMoney", function(source, args, rawCommand)
-    local xPlayer = ESX.GetPlayerFromId(source)
-    local money = args[1]
-    xPlayer.removeMoney(money)
-end, false)
