@@ -14,5 +14,5 @@ https://streamable.com/p94as6
 https://discord.gg/RMNdbb8cvx
 
 # TODO
- - Pouvoir prendre le pack 1 seule fois
+ - Pouvoir prendre le pack une seule fois
  - Compatibilité avec VIPSystem
